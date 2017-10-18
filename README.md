@@ -2,7 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
-[![HitCount](http://hits.dwyl.io/thetotaljim/Compiler.svg)](http://hits.dwyl.io/thetotaljim/JavaCodeChallenges)
+[![HitCount](http://hits.dwyl.io/thetotaljim/JavaCodeChallenges.svg)](http://hits.dwyl.io/thetotaljim/JavaCodeChallenges)
 
 > These are code challenges done for practice and fun!
 
